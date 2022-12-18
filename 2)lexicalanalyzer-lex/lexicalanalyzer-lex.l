@@ -1,4 +1,6 @@
-//Implementation of Lexical Analyzer using Lex tool
+
+
+ //Implementation of Lexical Analyzer using Lex tool
 %{
 int COMMENT=0;
 %}
