@@ -19,7 +19,6 @@ void e()
  t();
  e_prime();
 }
-
 void e_prime()
 {
 int i,n=0,l;
@@ -196,5 +195,4 @@ void main()
     strcpy(op,tmp);
     printf("\nE=%-25s",op);
  }
-
 }
