@@ -1,0 +1,24 @@
+# Object and binary files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+a.out
+
+# Parser generator artifacts
+y.tab.c
+y.tab.h
+lex.yy.c
+
+# Debug artifacts
+*.dSYM/
+core
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
